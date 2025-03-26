@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://skeyll.net/scripts/css/bs_side.css">
+    <title>データ-BattleSound</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-language" content="ja">
+    <meta name="description" content="リズム x 戦略 = BattleSound.圧倒的な読み力と的確な判断力が勝利のカギ!読み合いトレーニングゲームBattleSound!">
+    <link rel="alternate" hreflang="en" href="https://battlesound.skeyll.net/data">
+    <link rel="alternate" hreflang="ja" href="https://battlesound.skeyll.net/ja/data">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H43RPCM33L"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+
+      gtag('js', new Date());
+    
+      gtag('config', 'G-H43RPCM33L');
+    </script>
+  </head>
+  <body>
+    <div class="logo logo--pos"><a href="https://battlesound.skeyll.net/"><img src="https://skeyll.net/assets/bs/logo.webp" class="image--50x100--as_it_is logo--limit"></a></div>
+    <div class="decoration decoration--pos0"></div>
+    <div class="decoration decoration--pos1"></div>
+    <div class="decoration decoration--pos2"></div>
+    <div class="decoration decoration--pos3"></div>
+    <div class="layout-main layout-main--pos layout-main--text" id="main">
+      <div class="content_header content_header--pos">
+        <div class="content_header-title">
+          <a href="#info" class="title">情報</a> / <a href="#asset" class="title">アセット</a>
+        </div>
+        <div class="content_header-language content_header-language--pos">
+          <a href="https://battlesound.skeyll.net/data" class="title">English</a> / 日本語
+        </div>
+      </div>
+      <div class="content_main content_main--pos">
+        <div class="content_title">
+          <div class="content_title--box content_title--pos" id="info">情報</div>
+        </div>
+          <ul class="credits">
+            <li><div class="outline_content"><div class="outline_title outline_title--box">概要</div>
+              <ul>
+                <li>名称: BattleSound</li>
+                <li>ジャンル: リズム対戦ゲーム</li>
+                <li>プレイ人数: 1-2人</li>
+                <li>価格: 基本無料</li>
+                <li>開発: Skeyll</li>
+                <li>リリース日: ---</li>
+                <li>プラットフォーム: Android iOS PC</li>
+                <li>説明<br>「かけひき」を育てる対戦ゲームのための対戦ゲーム。シンプルな操作と簡単なルールをリズムに乗せて、心理戦に最大注力。ゲーム前や隙間時間にBattleSound！燃やせ最強にヒート！刻め勝利のビート！</li>
+                <li>特徴
+                  <ul>
+                    <li>操作とルールはシンプルで誰でもプレイ可能</li>
+                    <li>基本無料で課金はスキンのみ</li>
+                    <li>様々なアーキタイプを想定した複数のキャラクター</li>
+                    <li>キャラクター固有のスキル</li>
+                    <li>対戦に少しだけ変化をもたらすランダム性のアイテム</li>
+                    <li>現在は防御優位なモードのみ（のちに攻撃的なモードも追加予定！）</li>
+                  </ul>
+                </li>
+              </ul></div>
+            </li>
+            <li><div class="outline_content"><div class="outline_title outline_title--box">連絡先</div>
+              <ul>
+                <li>問い合わせ: <span>&#115;&#107;&#101;&#121;&#108;&#108;&#64;</span><span>&#115;&#107;&#101;&#121;&#108;&#108;&#46;&#110;&#101;&#116;</span></li>
+                <li>問い合わせフォーム: <a href="https://forms.gle/Zh3MdkwgaJyWAEUt6">Google Form</a></li>
+                <li>Twitter: <a href="https://twitter.com/skeylls2">twitter.com/skeylls2</a></li>
+                <li>Discord: <a href="https://discord.com/invite/HdfQbHdEar">discord.com/invite/HdfQbHdEar</a></li>
+                <li>Website: <a href="https://skeyll.net/">skeyll.net</a></li>
+              </ul>
+            </div></li>
+            <li><div class="outline_content"><div class="outline_title outline_title--box">その他</div>
+              <ul>
+                <li><a href="https://battlesound.skeyll.net/ja/policy">利用規約・プライバシーポリシー</a></li>
+                <li><a href="https://battlesound.skeyll.net/credit">クレジット</a></li>
+            </ul>
+            </div></li>
+          </ul>
+        
+        <img src="https://skeyll.net/assets/bs/line.webp" class="sentence-line--pos">
+
+        <div class="content_title">
+          <div class="content_title--box content_title--pos" id="asset">アセット</div>
+        </div>
+        *以下の画像はBattleSoundに関係のある報道記事やゲームのプレイ動画、配信に自由にご利用ください。
+        <ul class="credits">
+          <li><div class="outline_content"><div class="outline_title outline_title--box">Videos</div>
+            <div class="data-content">
+              <div class="data-content--box"><a href="https://www.youtube.com/embed/x4xBnMjC4EI"><img src="https://skeyll.net/assets/bs/pv0.webp" class="image--100x100--as_it_is"></a></div>
+              <!-- <div class="data-content--box"><img src="https://skeyll.net/assets/bs/pv2.webp" class="image--100x100--as_it_is"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/pv3.webp" class="image--100x100--as_it_is"></a></div> -->
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/pv4.webp" class="image--100x100--as_it_is"></div>
+            </div>
+          </div>
+          </li>
+          <li><div class="outline_content"><div class="outline_title outline_title--box">Game Images</div>
+            <div><a href="https://skeyll.net/assets/bs/battlesound_other_image.zip">以下の画像をzipでダウンロード(1.1mb)</a></div>
+            <div class="data-content">
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss0.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss1.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss2.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss3.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss4.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss5.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss6.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss7.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss8.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/game_ss9.webp" class="image--100x100--max_limit"></div>
+            </div>
+          </div>
+          <li><div class="outline_content"><div class="outline_title outline_title--box">Other Image</div>
+            <div><a href="https://skeyll.net/assets/bs/battlesound_other_image.zip">以下の画像をzipでダウンロード(4.5mb)</a></div>
+            <div class="data-content">
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data0.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data1.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data2.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data3.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data4.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data5.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data6.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data7.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data8.webp" class="image--100x100--max_limit"></div>
+              <div class="data-content--box"><img src="https://skeyll.net/assets/bs/data9.webp" class="image--100x100--max_limit"></div>
+            </div>
+          </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="layout-footer layout-footer--pos">
+      <div class="footer-line">
+        <div class="footer-text"><a href="https://skeyll.net/" class="copyright">&#169;Skeyll</a>
+        <div class="footer-text privacy--pos"><a href="https://skeyll.net/policy">Privacy</a></div>
+      </div>
+    </div>
+  </body>
+</html>
